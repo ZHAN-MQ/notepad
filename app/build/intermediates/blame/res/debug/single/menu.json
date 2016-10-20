@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ZMQ\\Documents\\WORK\\Java\\MyNotepad-Version-2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_notepad_list.xml",
+        "source": "C:\\Users\\ZMQ\\Documents\\WORK\\Java\\MyNotepad-Version-2\\app\\src\\main\\res\\menu\\activity_notepad_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZMQ\\Documents\\WORK\\Java\\MyNotepad-Version-2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_edit_menu.xml",
+        "source": "C:\\Users\\ZMQ\\Documents\\WORK\\Java\\MyNotepad-Version-2\\app\\src\\main\\res\\menu\\note_edit_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZMQ\\Documents\\WORK\\Java\\MyNotepad-Version-2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_item_context.xml",
+        "source": "C:\\Users\\ZMQ\\Documents\\WORK\\Java\\MyNotepad-Version-2\\app\\src\\main\\res\\menu\\list_item_context.xml"
+    }
+]

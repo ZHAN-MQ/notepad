@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ZMQ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fef1c949decd6ee72fb87bc68d2f040d96f642ac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_830b3be100f66d7b4360ae8aea71026d28bcb5f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c15461252df315462bd01e5036725310367c41ac">
+        <dex dex="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0b9f40019b648dc29bddcee4d6ac64688c9dfc02\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0d14e88b38d767d9a8e13135b27690e9534a2441">
+        <dex dex="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8e6ed2e68c4d43122e56d80f5db99aad642de4fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_11d90ab4967f7bc43b317a147a51e8c05278eddc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_f65df3abcf5e0b775e8d6ef0c55838d3e12c0ef4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_5c057471e95d6771370e8ef2eedd0d9711068bd9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_399be919617f6b5e6efa7ac34aa14ae46f54e70c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_146506bde9d55be027a30d80d0adbcff2de34dc8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_599919e35376af749844bc0d7453833e7b238ea2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\ZMQ\Documents\WORK\Java\MyNotepad-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_b7bf160fc0b665e7e59687832456fa903ad6797e\classes.dex" />
+    </item>
+
+</items>

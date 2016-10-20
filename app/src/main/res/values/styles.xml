@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryDark">#303F9F</item>
+        <!--<item name="colorPrimary">#ED1C24</item>
+        <item name="colorPrimaryDark">#CC0000</item>-->
+    </style>
+
+    <style name="btn_tile_option">
+        <item name="android:background">@drawable/click_selector</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">0dp</item>
+    </style>
+
+    <style name="dialog" parent="android:Theme.Material.Light.Dialog"/>
+
+</resources>

@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MyNotepad</string>
+    <string name="title_activity_notepad_list">MyNotepad</string>
+    <string name="titleEditNote">Edit note&#8230;</string> 
+    <string name="menu_insert">Create note</string>
+    <string name="newNote">Create note</string>
+    <string name="saveNote">Save</string>
+    <string name="sampleItem">Sample item</string>
+    <string name="deleteNote">Delete</string>
+    <string name="revertChanges">Revert changes</string>
+    <string name="listEmpty">List is empty</string>
+    <string name="share">Share</string>
+    <string name="newPaste">Paste from clipboard</string>
+    <string name="contextEdit">Edit note</string>
+    <string name="contextDelete">Delete</string>
+    <string name="contextDuplicate">Duplicate</string>
+    <string name="dialogDeleteNote">Delete note?</string>
+    <string name="dialogRevertChanges">Revert all changes since last save?</string>
+    <string name="dialogDeleteSelected">Delete selected note?</string>
+	<string name="toastAlreadyPasted">Note with this content already pasted</string>
+	<string name="toastClipboardNotText">Clipboard data is not in text format</string>
+	<string name="toastClipboardEmpty">Clipboard is empty</string>
+	<string name="shareEntityName">Note</string>
+	<string name="sharePromptText">Share note</string>
+	<string name="toastNoteDeleted">Note deleted</string>
+	<string name="toastNoteSaved">Note saved!</string>
+	
+	<string name="toastNoteCopied">Note copied to clipboard</string>
+	<string name="toastNoteDuplicated">Note duplicated</string>
+
+    <string name="about_dialog_title">About</string>
+    <string name="about_dialog_msg_description">
+        <![CDATA[
+        <p>MyNotepad Version %s</p>
+        <p>created by ZMQ</p>
+
+        <p>MyNotepad is a simple, open source notepad android application with few permissions required.<p>
+
+        <p>Please report any issue to denn1996_zmq@outlook.com</p>
+        ]]>
+    </string>
+
+    <string name="action_close">Close</string>
+
+
+</resources>
